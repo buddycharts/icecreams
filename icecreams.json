@@ -215,7 +215,7 @@
     "quantity": "1 Mini Tub",
     "selling_price": 40,
     "original_price": 50,
-    "images": ["icecreams/29.jpeg", "icecreams/30.jpeg"],
+    "images": ["icecreams/29.png", "icecreams/30.jpeg"],
     "ingredients": ["Milk Solids", "Sugar", "Strawberry Flavour"],
     "nutrition": { "calories": 220, "carbs": 30, "protein": 4, "fats": 8 }
   },
