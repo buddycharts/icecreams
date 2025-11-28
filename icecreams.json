@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "name": "Cornetto Choco Brownie",
+    "quantity": "1 Piece",
+    "selling_price": 35,
+    "original_price": 45,
+    "images": ["icecream/1.jpeg", "icecream/2.jpeg"],
+    "ingredients": [
+      "Milk Solids",
+      "Sugar",
+      "Cocoa Powder",
+      "Chocolate Sauce",
+      "Wheat Cone",
+      "Emulsifiers",
+      "Stabilizers"
+    ],
+    "nutrition": {
+      "calories": 210,
+      "carbs": 28,
+      "protein": 3,
+      "fats": 9
+    }
+  },
+  {
+    "id": 2,
+    "name": "Cornetto Oreo",
+    "quantity": "1 Piece",
+    "selling_price": 40,
+    "original_price": 50,
+    "images": ["icecream/3.jpeg", "icecream/4.jpeg"],
+    "ingredients": [
+      "Milk Solids",
+      "Sugar",
+      "Oreo Cookie Crumbs",
+      "Vanilla Ice Cream",
+      "Chocolate Coating",
+      "Wheat Cone"
+    ],
+    "nutrition": {
+      "calories": 230,
+      "carbs": 30,
+      "protein": 3,
+      "fats": 10
+    }
+  },
+  {
+    "id": 3,
+    "name": "Cornetto Double Chocolate",
+    "quantity": "1 Piece",
+    "selling_price": 40,
+    "original_price": 50,
+    "images": ["icecream/5.jpeg", "icecream/6.jpeg"],
+    "ingredients": [
+      "Milk Solids",
+      "Sugar",
+      "Chocolate Ice Cream",
+      "Chocolate Sauce",
+      "Cocoa Powder",
+      "Wheat Cone"
+    ],
+    "nutrition": {
+      "calories": 240,
+      "carbs": 31,
+      "protein": 3,
+      "fats": 11
+    }
+  },
+  {
+    "id": 4,
+    "name": "Cornetto Choco Vanilla",
+    "quantity": "1 Piece",
+    "selling_price": 40,
+    "original_price": 50,
+    "images": ["icecream/7.jpeg", "icecream/8.jpeg"],
+    "ingredients": [
+      "Milk Solids",
+      "Sugar",
+      "Vanilla Ice Cream",
+      "Chocolate Sauce",
+      "Wheat Cone"
+    ],
+    "nutrition": {
+      "calories": 220,
+      "carbs": 29,
+      "protein": 3,
+      "fats": 9
+    }
+  },
+  {
+    "id": 5,
+    "name": "Cornetto Strawberry Vanilla",
+    "quantity": "1 Piece",
+    "selling_price": 35,
+    "original_price": 45,
+    "images": ["icecream/9.jpeg", "icecream/10.jpeg"],
+    "ingredients": [
+      "Milk Solids",
+      "Sugar",
+      "Strawberry Flavour",
+      "Vanilla Ice Cream",
+      "Wheat Cone"
+    ],
+    "nutrition": {
+      "calories": 200,
+      "carbs": 27,
+      "protein": 3,
+      "fats": 8
+    }
+  },
+  {
+    "id": 6,
+    "name": "Cornetto Butterscotch",
+    "quantity": "1 Piece",
+    "selling_price": 40,
+    "original_price": 50,
+    "images": ["icecream/11.jpeg", "icecream/12.jpeg"],
+    "ingredients": [
+      "Milk Solids",
+      "Sugar",
+      "Butterscotch Nuts",
+      "Caramel Sauce",
+      "Wheat Cone"
+    ],
+    "nutrition": {
+      "calories": 225,
+      "carbs": 30,
+      "protein": 3,
+      "fats": 10
+    }
+  },
+  {
+    "id": 7,
+    "name": "Mercely's Strawberry Cup",
+    "quantity": "1 Cup",
+    "selling_price": 20,
+    "original_price": 25,
+    "images": ["icecream/13.jpeg", "icecream/14.jpeg"],
+    "ingredients": ["Milk Solids", "Sugar", "Strawberry Flavour", "Stabilizers"],
+    "nutrition": { "calories": 140, "carbs": 22, "protein": 2, "fats": 5 }
+  },
+  {
+    "id": 8,
+    "name": "Mercely's Pineapple Cup",
+    "quantity": "1 Cup",
+    "selling_price": 10,
+    "original_price": 15,
+    "images": ["icecream/15.jpeg", "icecream/16.jpeg"],
+    "ingredients": ["Milk Solids", "Sugar", "Pineapple Flavour"],
+    "nutrition": { "calories": 120, "carbs": 20, "protein": 2, "fats": 4 }
+  },
+  {
+    "id": 9,
+    "name": "Mercely's Mango Cup",
+    "quantity": "1 Cup",
+    "selling_price": 25,
+    "original_price": 30,
+    "images": ["icecream/17.jpeg", "icecream/18.jpeg"],
+    "ingredients": ["Milk Solids", "Sugar", "Mango Pulp", "Stabilizers"],
+    "nutrition": { "calories": 150, "carbs": 24, "protein": 2, "fats": 6 }
+  },
+  {
+    "id": 10,
+    "name": "Mercely's Pista Cup",
+    "quantity": "1 Cup",
+    "selling_price": 20,
+    "original_price": 25,
+    "images": ["icecream/19.jpeg", "icecream/20.jpeg"],
+    "ingredients": ["Milk Solids", "Sugar", "Pista Flavour"],
+    "nutrition": { "calories": 160, "carbs": 22, "protein": 3, "fats": 7 }
+  },
+  {
+    "id": 11,
+    "name": "Mercely's Chocolate Cup",
+    "quantity": "1 Cup",
+    "selling_price": 25,
+    "original_price": 30,
+    "images": ["icecream/21.jpeg", "icecream/22.jpeg"],
+    "ingredients": ["Milk Solids", "Sugar", "Cocoa Powder"],
+    "nutrition": { "calories": 170, "carbs": 23, "protein": 3, "fats": 7 }
+  },
+  {
+    "id": 12,
+    "name": "Mercely's Cone Chocolate",
+    "quantity": "1 Piece",
+    "selling_price": 45,
+    "original_price": 55,
+    "images": ["icecream/23.jpeg", "icecream/24.jpeg"],
+    "ingredients": ["Milk Solids", "Sugar", "Chocolate Ice Cream", "Wheat Cone"],
+    "nutrition": { "calories": 210, "carbs": 28, "protein": 3, "fats": 9 }
+  },
+  {
+    "id": 13,
+    "name": "Mercely's Cone Butterscotch",
+    "quantity": "1 Piece",
+    "selling_price": 45,
+    "original_price": 55,
+    "images": ["icecream/25.jpeg", "icecream/26.jpeg"],
+    "ingredients": ["Milk Solids", "Sugar", "Butterscotch Bits", "Caramel", "Wheat Cone"],
+    "nutrition": { "calories": 215, "carbs": 29, "protein": 3, "fats": 9 }
+  },
+  {
+    "id": 14,
+    "name": "Mercely's Cone Vanilla",
+    "quantity": "1 Piece",
+    "selling_price": 40,
+    "original_price": 50,
+    "images": ["icecream/27.jpeg", "icecream/28.jpeg"],
+    "ingredients": ["Milk Solids", "Sugar", "Vanilla Flavour", "Wheat Cone"],
+    "nutrition": { "calories": 190, "carbs": 26, "protein": 3, "fats": 8 }
+  },
+  {
+    "id": 15,
+    "name": "Mercely's Mini Tub Strawberry",
+    "quantity": "1 Mini Tub",
+    "selling_price": 40,
+    "original_price": 50,
+    "images": ["icecream/29.jpeg", "icecream/30.jpeg"],
+    "ingredients": ["Milk Solids", "Sugar", "Strawberry Flavour"],
+    "nutrition": { "calories": 220, "carbs": 30, "protein": 4, "fats": 8 }
+  },
+  {
+    "id": 16,
+    "name": "Mercely's Mini Tub Chickoo",
+    "quantity": "1 Mini Tub",
+    "selling_price": 40,
+    "original_price": 50,
+    "images": ["icecream/31.jpeg", "icecream/32.jpeg"],
+    "ingredients": ["Milk Solids", "Sugar", "Chickoo Flavour"],
+    "nutrition": { "calories": 230, "carbs": 31, "protein": 4, "fats": 8 }
+  },
+  {
+    "id": 17,
+    "name": "Mercely's Mini Tub Mango",
+    "quantity": "1 Mini Tub",
+    "selling_price": 40,
+    "original_price": 50,
+    "images": ["icecream/33.jpeg", "icecream/34.jpeg"],
+    "ingredients": ["Milk Solids", "Sugar", "Mango Pulp"],
+    "nutrition": { "calories": 240, "carbs": 32, "protein": 4, "fats": 9 }
+  },
+  {
+    "id": 18,
+    "name": "Mercely's Mini Tub Blueberry",
+    "quantity": "1 Mini Tub",
+    "selling_price": 40,
+    "original_price": 55,
+    "images": ["icecream/35.jpeg", "icecream/36.jpeg"],
+    "ingredients": ["Milk Solids", "Sugar", "Blueberry Flavour"],
+    "nutrition": { "calories": 235, "carbs": 31, "protein": 4, "fats": 8 }
+  },
+  {
+    "id": 19,
+    "name": "Mercely's Mini Tub Sitaphal",
+    "quantity": "1 Mini Tub",
+    "selling_price": 40,
+    "original_price": 55,
+    "images": ["icecream/37.jpeg", "icecream/38.jpeg"],
+    "ingredients": ["Milk Solids", "Sugar", "Sitaphal Pulp"],
+    "nutrition": { "calories": 245, "carbs": 32, "protein": 4, "fats": 9 }
+  },
+  {
+    "id": 20,
+    "name": "Mercely's Big Lolly Pineapple",
+    "quantity": "1 Piece",
+    "selling_price": 10,
+    "original_price": 15,
+    "images": ["icecream/39.jpeg", "icecream/40.jpeg"],
+    "ingredients": ["Water", "Sugar", "Pineapple Flavour"],
+    "nutrition": { "calories": 70, "carbs": 17, "protein": 0, "fats": 0 }
+  },
+  {
+    "id": 21,
+    "name": "Mercely's Big Lolly Mango",
+    "quantity": "1 Piece",
+    "selling_price": 10,
+    "original_price": 15,
+    "images": ["icecream/41.jpeg", "icecream/42.jpeg"],
+    "ingredients": ["Water", "Sugar", "Mango Flavour"],
+    "nutrition": { "calories": 75, "carbs": 18, "protein": 0, "fats": 0 }
+  },
+  {
+    "id": 22,
+    "name": "Mercely's Big Lolly Pista",
+    "quantity": "1 Piece",
+    "selling_price": 10,
+    "original_price": 15,
+    "images": ["icecream/43.jpeg", "icecream/44.jpeg"],
+    "ingredients": ["Water", "Sugar", "Pista Flavour"],
+    "nutrition": { "calories": 80, "carbs": 19, "protein": 0, "fats": 1 }
+  }
+]
