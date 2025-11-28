@@ -5,7 +5,7 @@
     "quantity": "1 Piece",
     "selling_price": 35,
     "original_price": 45,
-    "images": ["icecream/1.jpeg", "icecream/2.jpeg"],
+    "images": ["icecreams/1.jpeg", "icecreams/2.jpeg"],
     "ingredients": [
       "Milk Solids",
       "Sugar",
@@ -28,7 +28,7 @@
     "quantity": "1 Piece",
     "selling_price": 40,
     "original_price": 50,
-    "images": ["icecream/3.jpeg", "icecream/4.jpeg"],
+    "images": ["icecreams/3.jpeg", "icecreams/4.jpeg"],
     "ingredients": [
       "Milk Solids",
       "Sugar",
@@ -50,7 +50,7 @@
     "quantity": "1 Piece",
     "selling_price": 40,
     "original_price": 50,
-    "images": ["icecream/5.jpeg", "icecream/6.jpeg"],
+    "images": ["icecreams/5.jpeg", "icecreams/6.jpeg"],
     "ingredients": [
       "Milk Solids",
       "Sugar",
@@ -72,7 +72,7 @@
     "quantity": "1 Piece",
     "selling_price": 40,
     "original_price": 50,
-    "images": ["icecream/7.jpeg", "icecream/8.jpeg"],
+    "images": ["icecreams/7.jpeg", "icecreams/8.jpeg"],
     "ingredients": [
       "Milk Solids",
       "Sugar",
@@ -93,7 +93,7 @@
     "quantity": "1 Piece",
     "selling_price": 35,
     "original_price": 45,
-    "images": ["icecream/9.jpeg", "icecream/10.jpeg"],
+    "images": ["icecreams/9.jpeg", "icecreams/10.jpeg"],
     "ingredients": [
       "Milk Solids",
       "Sugar",
@@ -114,7 +114,7 @@
     "quantity": "1 Piece",
     "selling_price": 40,
     "original_price": 50,
-    "images": ["icecream/11.jpeg", "icecream/12.jpeg"],
+    "images": ["icecreams/11.jpeg", "icecreams/12.jpeg"],
     "ingredients": [
       "Milk Solids",
       "Sugar",
@@ -135,7 +135,7 @@
     "quantity": "1 Cup",
     "selling_price": 20,
     "original_price": 25,
-    "images": ["icecream/13.jpeg", "icecream/14.jpeg"],
+    "images": ["icecreams/13.jpeg", "icecreams/14.jpeg"],
     "ingredients": ["Milk Solids", "Sugar", "Strawberry Flavour", "Stabilizers"],
     "nutrition": { "calories": 140, "carbs": 22, "protein": 2, "fats": 5 }
   },
@@ -145,7 +145,7 @@
     "quantity": "1 Cup",
     "selling_price": 10,
     "original_price": 15,
-    "images": ["icecream/15.jpeg", "icecream/16.jpeg"],
+    "images": ["icecreams/15.jpeg", "icecreams/16.jpeg"],
     "ingredients": ["Milk Solids", "Sugar", "Pineapple Flavour"],
     "nutrition": { "calories": 120, "carbs": 20, "protein": 2, "fats": 4 }
   },
@@ -155,7 +155,7 @@
     "quantity": "1 Cup",
     "selling_price": 25,
     "original_price": 30,
-    "images": ["icecream/17.jpeg", "icecream/18.jpeg"],
+    "images": ["icecreams/17.jpeg", "icecreams/18.jpeg"],
     "ingredients": ["Milk Solids", "Sugar", "Mango Pulp", "Stabilizers"],
     "nutrition": { "calories": 150, "carbs": 24, "protein": 2, "fats": 6 }
   },
@@ -165,7 +165,7 @@
     "quantity": "1 Cup",
     "selling_price": 20,
     "original_price": 25,
-    "images": ["icecream/19.jpeg", "icecream/20.jpeg"],
+    "images": ["icecreams/19.jpeg", "icecreams/20.jpeg"],
     "ingredients": ["Milk Solids", "Sugar", "Pista Flavour"],
     "nutrition": { "calories": 160, "carbs": 22, "protein": 3, "fats": 7 }
   },
@@ -175,7 +175,7 @@
     "quantity": "1 Cup",
     "selling_price": 25,
     "original_price": 30,
-    "images": ["icecream/21.jpeg", "icecream/22.jpeg"],
+    "images": ["icecreams/21.jpeg", "icecreams/22.jpeg"],
     "ingredients": ["Milk Solids", "Sugar", "Cocoa Powder"],
     "nutrition": { "calories": 170, "carbs": 23, "protein": 3, "fats": 7 }
   },
@@ -185,7 +185,7 @@
     "quantity": "1 Piece",
     "selling_price": 45,
     "original_price": 55,
-    "images": ["icecream/23.jpeg", "icecream/24.jpeg"],
+    "images": ["icecreams/23.jpeg", "icecreams/24.jpeg"],
     "ingredients": ["Milk Solids", "Sugar", "Chocolate Ice Cream", "Wheat Cone"],
     "nutrition": { "calories": 210, "carbs": 28, "protein": 3, "fats": 9 }
   },
@@ -195,7 +195,7 @@
     "quantity": "1 Piece",
     "selling_price": 45,
     "original_price": 55,
-    "images": ["icecream/25.jpeg", "icecream/26.jpeg"],
+    "images": ["icecreams/25.jpeg", "icecreams/26.jpeg"],
     "ingredients": ["Milk Solids", "Sugar", "Butterscotch Bits", "Caramel", "Wheat Cone"],
     "nutrition": { "calories": 215, "carbs": 29, "protein": 3, "fats": 9 }
   },
@@ -205,7 +205,7 @@
     "quantity": "1 Piece",
     "selling_price": 40,
     "original_price": 50,
-    "images": ["icecream/27.jpeg", "icecream/28.jpeg"],
+    "images": ["icecreams/27.jpeg", "icecreams/28.jpeg"],
     "ingredients": ["Milk Solids", "Sugar", "Vanilla Flavour", "Wheat Cone"],
     "nutrition": { "calories": 190, "carbs": 26, "protein": 3, "fats": 8 }
   },
@@ -215,7 +215,7 @@
     "quantity": "1 Mini Tub",
     "selling_price": 40,
     "original_price": 50,
-    "images": ["icecream/29.jpeg", "icecream/30.jpeg"],
+    "images": ["icecreams/29.jpeg", "icecreams/30.jpeg"],
     "ingredients": ["Milk Solids", "Sugar", "Strawberry Flavour"],
     "nutrition": { "calories": 220, "carbs": 30, "protein": 4, "fats": 8 }
   },
@@ -225,7 +225,7 @@
     "quantity": "1 Mini Tub",
     "selling_price": 40,
     "original_price": 50,
-    "images": ["icecream/31.jpeg", "icecream/32.jpeg"],
+    "images": ["icecreams/31.jpeg", "icecreams/32.jpeg"],
     "ingredients": ["Milk Solids", "Sugar", "Chickoo Flavour"],
     "nutrition": { "calories": 230, "carbs": 31, "protein": 4, "fats": 8 }
   },
@@ -235,7 +235,7 @@
     "quantity": "1 Mini Tub",
     "selling_price": 40,
     "original_price": 50,
-    "images": ["icecream/33.jpeg", "icecream/34.jpeg"],
+    "images": ["icecreams/33.jpeg", "icecreams/34.jpeg"],
     "ingredients": ["Milk Solids", "Sugar", "Mango Pulp"],
     "nutrition": { "calories": 240, "carbs": 32, "protein": 4, "fats": 9 }
   },
@@ -245,7 +245,7 @@
     "quantity": "1 Mini Tub",
     "selling_price": 40,
     "original_price": 55,
-    "images": ["icecream/35.jpeg", "icecream/36.jpeg"],
+    "images": ["icecreams/35.jpeg", "icecreams/36.jpeg"],
     "ingredients": ["Milk Solids", "Sugar", "Blueberry Flavour"],
     "nutrition": { "calories": 235, "carbs": 31, "protein": 4, "fats": 8 }
   },
@@ -255,7 +255,7 @@
     "quantity": "1 Mini Tub",
     "selling_price": 40,
     "original_price": 55,
-    "images": ["icecream/37.jpeg", "icecream/38.jpeg"],
+    "images": ["icecreams/37.jpeg", "icecreams/38.jpeg"],
     "ingredients": ["Milk Solids", "Sugar", "Sitaphal Pulp"],
     "nutrition": { "calories": 245, "carbs": 32, "protein": 4, "fats": 9 }
   },
@@ -265,7 +265,7 @@
     "quantity": "1 Piece",
     "selling_price": 10,
     "original_price": 15,
-    "images": ["icecream/39.jpeg", "icecream/40.jpeg"],
+    "images": ["icecreams/39.jpeg", "icecreams/40.jpeg"],
     "ingredients": ["Water", "Sugar", "Pineapple Flavour"],
     "nutrition": { "calories": 70, "carbs": 17, "protein": 0, "fats": 0 }
   },
@@ -275,7 +275,7 @@
     "quantity": "1 Piece",
     "selling_price": 10,
     "original_price": 15,
-    "images": ["icecream/41.jpeg", "icecream/42.jpeg"],
+    "images": ["icecreams/41.jpeg", "icecreams/42.jpeg"],
     "ingredients": ["Water", "Sugar", "Mango Flavour"],
     "nutrition": { "calories": 75, "carbs": 18, "protein": 0, "fats": 0 }
   },
@@ -285,7 +285,7 @@
     "quantity": "1 Piece",
     "selling_price": 10,
     "original_price": 15,
-    "images": ["icecream/43.jpeg", "icecream/44.jpeg"],
+    "images": ["icecreams/43.jpeg", "icecreams/44.jpeg"],
     "ingredients": ["Water", "Sugar", "Pista Flavour"],
     "nutrition": { "calories": 80, "carbs": 19, "protein": 0, "fats": 1 }
   }
